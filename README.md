@@ -3,7 +3,7 @@
 A pixel-perfect, interactive quiz application built with React, TypeScript, and Tailwind CSS, replicating the provided Figma design with strict attention to detail.
 
 ## 🚀 Live Demo
-*(Insert your Vercel/Netlify URL here after deployment)*
+https://testyourknowledge1.netlify.app/
 
 ---
 
